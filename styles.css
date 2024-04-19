@@ -1,0 +1,9 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.banner{
+    background-image: url("https://wallpapercave.com/wp/wp3483789.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px;
+}
