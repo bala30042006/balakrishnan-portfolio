@@ -1,9 +1,25 @@
 *{
     font-family: "Poppins", sans-serif;
 }
+.navbar{
+    background-color: rgb(218, 111, 232);
+}
 .banner{
-    background-image: url("https://wallpapercave.com/wp/wp3483789.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp7952844.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 150px;
+}
+.abour{
+    background-color: blueviolet;
+}
+.skill{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+}
+.contacts{
+    background-color: rgb(255, 47, 144);
+    transition:all ;
 }
