@@ -2,10 +2,10 @@
     font-family: "Poppins", sans-serif;
 }
 .navbar{
-    background-color: rgb(218, 111, 232);
+    background-color: rgb(225, 225, 144);
 }
 .banner{
-    background-image: url("https://wallpapercave.com/wp/wp7952844.jpg");
+    background-image: url("https://th.bing.com/th/id/R.bcf47402066a897f58d11faa9b3e9516?rik=xC2tsTcTRgXR7g&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f89%2f99%2f6ncgjN.jpg&ehk=sjlAp3EpvKsfHaA3kq%2bDmrSuXk3lT45be%2bmMo2nHqpI%3d&risl=&pid=ImgRaw&r=0");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 150px;
